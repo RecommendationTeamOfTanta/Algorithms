@@ -5,7 +5,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>43cc886c-616b-4f9c-8105-55e55f349f81</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>RecommendationAlgorithms.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +25,6 @@
   <ItemGroup>
     <Compile Include="data.py" />
     <Compile Include="MachineLibirary.py" />
-    <Compile Include="RecommendationAlgorithms.py" />
     <Compile Include="recommendations.py" />
   </ItemGroup>
   <PropertyGroup>
